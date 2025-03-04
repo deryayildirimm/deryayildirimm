@@ -1,14 +1,17 @@
 <h1 align="center">Hi 👋, I'm Derya Yıldırım</h1>
-<h3 align="center"> Junior Computer Engineer passionate about software development . I love working on scalable and maintainable projects, and I’m always eager to learn and explore new technologies. 🚀 
-
+<h3 align="center"> Junior Computer Engineer passionate about software development . 
+  <br> I love working on scalable and maintainable projects, and I’m always eager to learn and explore new technologies. 🚀 
+  <br> Let's connect and collaborate on exciting projects! 😊
 </h3>
 
 <br> </br>
 
----
-<br> </br>
+<h1>
+  
 
 ### 🛠 Tech Stack
+
+</h1>
 
 <img align="right" height="260" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif"  />
 
@@ -41,15 +44,15 @@
 </div>
 
 ###
-<!--
-### 🌟 Featured Projects
--->
+
+### 🌟 Projects
+
 <!--
 - 🛒 **E-commerce Platform** - Built with React, Redux & Spring Boot
-
+-->
 - 🏥 **Healthcare Management System** - Blazor & ABP-based solution for managing appointments
 - 🔗 **Blockchain & V2X Integration** 
--->
+
 
 ### 📫 How to Reach Me
 
@@ -64,7 +67,7 @@
 </div>
 
 ###
-Let's connect and collaborate on exciting projects! 😊
+
 ###
 
 
