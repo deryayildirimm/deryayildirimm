@@ -13,7 +13,7 @@
 
 </h1>
 
-<img align="right" height="260" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif"  />
+<img align="right" height="260" margin="20"  src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif"  />
 
 ###
 
@@ -50,7 +50,7 @@
 <!--
 - 🛒 **E-commerce Platform** - Built with React, Redux & Spring Boot
 -->
-- 🏥 **Healthcare Management System** - Blazor & ABP-based solution for managing appointments
+- 🏥 **Healthcare Management System** 
 - 🔗 **Blockchain & V2X Integration** 
 
 
