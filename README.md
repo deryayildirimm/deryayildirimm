@@ -6,18 +6,8 @@
 
 <br> </br>
 
-<h1>
-  
+<div align="center" margin-bottom = "-15">
 
-### 🛠 Tech Stack
-
-</h1>
-
-<img align="right" height="260" margin="20"  src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif"  />
-
-###
-
-<div align="left" margin = "10px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="22" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -41,22 +31,38 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="22" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
+  </div>
+
+<h1>
+  
+
+### 🌟 Projects
+
+</h1>
+
+<img align="right" height="260" margin="20"  src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif"  />
+
+###
+
+<div align="left" margin = "10px">
+
+- 🏥 **Healthcare Management System** 
+- 🔗 **Blockchain & V2X Integration** 
+
 </div>
 
 ###
 
-### 🌟 Projects
+###  📝 Medium Page
 
-<!--
-- 🛒 **E-commerce Platform** - Built with React, Redux & Spring Boot
--->
-- 🏥 **Healthcare Management System** 
-- 🔗 **Blockchain & V2X Integration** 
-
-### Medium Page
 - [**What Is Polymorphism?**](https://medium.com/@deryayildirimm/what-is-polymorphism-a-real-example-with-java-2b6aba205275)
 - [**Unıt Test vs Integration Test**](https://medium.com/@deryayildirimm/unit-test-vs-integration-test-in-spring-boot-concepts-and-examples-2d59cbbb3e1e)
 - [**ELK Stack with SpringBoot + Docker**](https://medium.com/@deryayildirimm/logların-büyüsünü-keşfet-spring-boot-docker-ile-merkezi-loglama-elk-stack-kurulumu-84b3e413cf3c)
+<!--
+- 🛒 **E-commerce Platform** - Built with React, Redux & Spring Boot
+-->
+
+
 
 ### 📫 How to Reach Me
 
