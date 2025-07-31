@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Derya Yıldırım</h1>
-<h3 align="center"> Junior Computer Engineer passionate about software development . 
+<h1 align="center">Hi 👋, I'm Derya </h1>
+<h3 align="center"> Computer Engineer passionate about software development . 
   <br> I love working on scalable and maintainable projects, and I’m always eager to learn and explore new technologies. 🚀 
   <br> Let's connect and collaborate on exciting projects! 😊
 </h3>
